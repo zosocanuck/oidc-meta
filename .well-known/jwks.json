@@ -8,6 +8,15 @@
       "use": "sig",
       "x": "gR7xUsoAeR2M6tJ7I23RZYHT34fNCfEuj_MjEL42RTU",
       "y": "Dv545rGlADOCHFqESE_ni35QFuDPeACCWUyfYM4vWxY"
+    },
+    {
+      "alg": "ES256",
+      "crv": "P-256",
+      "kid": "4a581522-b6e9-41c4-a532-74e16d9cfaee",
+      "kty": "EC",
+      "use": "sig",
+      "x": "ly-LZF1Bi8TkyczgoK3lMx8aCodHoHx4PPl6gfafQhE",
+      "y": "8rKExGNo56XFTw3NXuVWcnv4KNFFHtIA4_faNFXPLwY"
     }
   ]
 }
