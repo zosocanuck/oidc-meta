@@ -3,20 +3,11 @@
     {
       "alg": "ES256",
       "crv": "P-256",
-      "kid": "1f01ca22-c81a-45ed-b22f-0342fea11f4e",
+      "kid": "7558f4fe-d990-486b-b39c-6e671de13ba1",
       "kty": "EC",
       "use": "sig",
-      "x": "gR7xUsoAeR2M6tJ7I23RZYHT34fNCfEuj_MjEL42RTU",
-      "y": "Dv545rGlADOCHFqESE_ni35QFuDPeACCWUyfYM4vWxY"
-    },
-    {
-      "alg": "ES256",
-      "crv": "P-256",
-      "kid": "4a581522-b6e9-41c4-a532-74e16d9cfaee",
-      "kty": "EC",
-      "use": "sig",
-      "x": "ly-LZF1Bi8TkyczgoK3lMx8aCodHoHx4PPl6gfafQhE",
-      "y": "8rKExGNo56XFTw3NXuVWcnv4KNFFHtIA4_faNFXPLwY"
+      "x": "ySyJZg9QYMHSL_mG-J5g9BRPQUJyBj2NVwFCntaTNUg",
+      "y": "1PRAMnMZoTsNxFXNJsY_x9Mts4mWUbB0XIZWxa3IHn4"
     }
   ]
 }
